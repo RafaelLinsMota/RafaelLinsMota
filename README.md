@@ -1,4 +1,4 @@
-Hello, World! Meu nome é Rafael, estudante na área de Automação de Teste de Software.
+Meu nome é Rafael, estudante na área de Automação de Teste de Software.
 
 
 <div align="center">

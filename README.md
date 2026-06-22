@@ -1,7 +1,7 @@
 <h2 align="center">👋 Olá! Meu nome é Rafael Lins Mota</h2>
 
 <p align="center">
-  🎯 Estudante em <strong>Automação de Teste de Software</strong> &nbsp;|&nbsp; Desenvolvendo projetos em TypeScript
+  🎯 <strong>Automação de Teste de Software &nbsp;|&nbsp; Desenvolvendo projetos em TypeScript </strong>
 </p>
 
 <p align="center">
